@@ -1,0 +1,34 @@
+                                                                                               
+                                                                                                                         MODULE: 4 (List and Hooks)
+
+
+
+
+======================================================================================================================================
+
+  •    Explain Life cycle in Class Component and functional component with Hooks?
+  =>  A React component undergoes three different phases in its lifecycle, including mounting, updating, and unmounting. Each phase has specific methods responsible for a particular stage in a               component's lifecycle. These methods are technically particular to class-based components and not intended for functional components.
+
+  =>  Phases of a React component's lifecycle :-
+  >    A React component undergoes three phases in its lifecycle: mounting, updating, and unmounting.
+
+  >    The mounting phase is when a new component is created and inserted into the DOM or, in other words, when the life of a component begins. This can only happen once, and is often called              “initial render.”
+
+  >    The updating phase is when the component updates or re-renders. This reaction is triggered when the props are updated or when the state is updated. This phase can occur multiple times,                  which is kind of the point of React.
+
+  >     The last phase within a component's lifecycle is the unmounting phase, when the component is removed from the DOM.
+
+    =>   In a class-based component, you can call different methods for each phase of the lifecycle .These lifecycle methods are of course not applicable to functional components because they can               be written/contained within a class. However, React hooks give functional components the ability to use states.
+
+   =>    Hooks have gaining popularity because they make working with React cleaner and often less verbose.
+
+
+======================================================================================================================================
+
+
+
+
+
+
+
+
