@@ -1,0 +1,57 @@
+                                                                                                                
+                                                                                                        MODULE: 3 (JavaScript Essentials)
+
+
+
+Q =>   What is React Js?
+A =>    commonly referred to as React, is an open-source JavaScript library developed and maintained by Facebook. React is widely used for building user interfaces, particularly for                                  single-page applications where the user interacts with the page without having to reload it. It's often used in conjunction with other libraries or frameworks, such as Redux, for state                           management, and React Router for handling navigation.
+
+======================================================================================================================================
+
+Q =>    What is NPM in React Js?
+A =>   NPM (Node Package Manager) is a package manager for JavaScript that is used to manage and share reusable code packages. React itself is a JavaScript library for building user                        interfaces, and NPM is often used to install and manage third-party libraries and tools that complement React development.
+
+======================================================================================================================================
+
+Q =>   What is Role of Node Js in react Js?
+A =>   Node. js enables the creation of scalable and quick back-end RESTful APIs. On the other hand, React is a front-end library that creates interactive user interfaces. With both tools, you can            fast build complex and scalable web apps.
+
+======================================================================================================================================
+
+Q=>  What is Components in React Js?
+A=>  components are the building blocks of user interfaces. They are reusable, self-contained pieces of code that represent parts of a user interface. A React application is essentially made up of              multiple components that work together to create the overall UI. React components can be thought of as custom HTML elements with associated functionality. There are two main types of              React components: functional components and class components.
+
+======================================================================================================================================
+
+Q=>  What is CLI command In React Js?
+A=>    CLI (Command Line Interface) commands are used to perform various development tasks, such as creating a new React application, running a development server, building the                      application for production, and more. The most common CLI tool for React.js development is Create React App. Create React App is an officially supported way to create single-page             React applications .
+
+======================================================================================================================================
+
+Q=>  What is Header and Content Components in React Js?
+A=>  Header component and a Content component are commonly used to structure the user interface of a web application. These components are part of the overall layout and organization of the          application. 
+
+======================================================================================================================================
+
+Q =>  How to install React Js on Windows, Linux Operating System? How to install NPM and How to check version of NPM?
+A=>    1- Install Node.js installer for windows.
+    =>   2- Open command to check whether it is completely installed or not write the command - node -v.
+    =>   3- Now in the terminal run the command - npm install -g create-react-app.
+    =>   4- Now Create a new folder where you want to make your react app write command -  newfolder.
+    =>   5- Now inside this folder run the command - create-react-app reactfirst 
+    =>   6- Open Project Folder.
+    =>   7- To start your app run the below command - npm start.
+
+======================================================================================================================================
+
+Q=>   How to check version of React Js?
+A=>   To check which React version is your project using you need to open the package. json. Take a look under the dependencies section. It should list all of the dependencies of your project and             one of those should be React.
+
+======================================================================================================================================
+
+Q=>   How to change in components of React Js? 
+A=>   Changing components in React.js involves making modifications to the component code. Navigate to the directory where your React component is located.Use a code editor to open the file            containing the React component you want to change. Make the necessary change to the JSX code desired changes in the component .
+======================================================================================================================================
+
+
+
